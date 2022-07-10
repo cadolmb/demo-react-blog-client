@@ -1,4 +1,6 @@
-Demo blog app made with express/react/redux/mongodb
+# Demo blog app made with express/react/redux/mongodb
+---
+## Matthew Cadol
 ---
 # Getting Started with Create React App
 
